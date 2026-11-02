@@ -1,0 +1,6 @@
+{
+  "name": "FoodMitra — Food Rescue & Donation Platform",
+  "description": "Technology-enabled food rescue platform connecting food donors, restaurants, and event caterers with verified NGOs and volunteers to redistribute safe surplus food.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
